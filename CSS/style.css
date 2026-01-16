@@ -1,0 +1,46 @@
+*{
+   color: blue;
+}
+h3{
+    color:purple;
+    background-color: rgb(1,3,2);
+    font-weight: lighter;
+}
+p{
+    color:blueviolet;
+}
+button{
+    color:brown;
+    background-color: burlywood;
+}
+body{
+    background-color:powderblue;
+}
+#heading1{
+    color:blue;
+}
+.para{
+    color:magenta; 
+}
+#box{
+   background-color:blue;
+   color:white;
+}
+.heading{
+    color:red;
+    text-align:center;
+}
+button{
+    background-color: aqua;
+}
+p{
+    text-align:center;
+}
+h1{
+    text-align:center;
+    text-decoration:black wavy underline;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
